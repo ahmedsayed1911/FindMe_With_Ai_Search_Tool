@@ -16,6 +16,7 @@ View and manage all stored posts
 Automatically rebuild the vector database when needed
 
 🚀 Key Features
+
 ✔ Face Embedding Extraction
 
 Uses InsightFace (Buffalo_L) model
